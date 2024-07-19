@@ -60,31 +60,31 @@
 
 <h2>😆 Experience:</h2>
 
-• 개인 프로젝트<br/>
- └─ Swipe Puzzle 게임 어플리케이션 개발 `Unity` (2023.05 ~ 2023.06)<br/>
-    [플레이스토어 링크](https://play.google.com/store/apps/details?id=com.teamfogo.swipepuzzle)
+✨ 개인 프로젝트<br/>
+  • Swipe Puzzle 게임 어플리케이션 개발 `Unity` (2023.05 ~ 2023.06)<br/>
+   [\[플레이스토어 링크\]](https://play.google.com/store/apps/details?id=com.teamfogo.swipepuzzle)<br/>
 
-• 교내 활동<br/>
- └─ 음악 스트리밍 사이트 Violet 개발 `React / php` (2023.05 ~ 2023.06)<br/>
-    [Violet 링크](https://blue.kku.ac.kr:500)
+🏫 교내 활동<br/>
+  • 음악 스트리밍 사이트 Violet 개발 `React / php` (2023.05 ~ 2023.06)<br/>
+   [\[Violet 링크\]](https://blue.kku.ac.kr:500)<br/>
 
-• 컴퓨터공학과 창업동아리 (2022.09 ~ 2022.12)<br/>
- └─ 열려라 하늘재 게임 어플리케이션 개발 `Unity / AR` (2022.09 ~ 2022.12)<br/>
+🎓 컴퓨터공학과 창업동아리 (2022.09 ~ 2022.12)<br/>
+  • 열려라 하늘재 게임 어플리케이션 개발 `Unity / AR` (2022.09 ~ 2022.12)<br/>
 <br/>
-• 컴퓨터공학과 HCI 연구팀 (2021.09 ~ 2024.12)<br/>
- ├─ 토지 가치 예측 모델(LVPM) 개발 `Python / PyTorch / XGBoost` (2021.09 ~ 2023.11)<br/>
- ├─ 토지 가치 예측 서비스 "KUMap" 개발 `React / Flask` (2023.02 ~ 2024.07)<br/>
-     [KUMap 링크](https://blue.kku.ac.kr)
- ├─ 치매 환자와 노인의 신체 및 정신건강 증진을 위한 "몸과마음" 어플리케이션 개발 `Kotlin / Flask / LLM` (2023.07 ~ 2024.02)<br/>
-     [몸과마음 링크](https://play.google.com/store/apps/details?id=com.khci.bnm&hl=ko)
- ├─ 쓰레기 분리배출을 위한 "Greenery" 어플리케이션 개발 `Kotlin / Flask / LLM` (2024.04 ~ 2024.05)<br/>
-     [Greenery 링크](https://play.google.com/store/apps/details?id=com.ert.greenery&hl=ko)
- ├─ 가축 질병 관리를 위한 챗봇 어플리케이션 "KUVet" 개발 `Kotlin / Flask / LLM` (2024.05 ~ 2024.07)<br/>
-     [KUVet 링크](https://play.google.com/store/apps/details?id=com.hci.chatbot)
- └─ CARLA 환경에서의 카메라 센서를 활용한 자율주행 모델 개발 `Carla / Python / PyTorch` (2024.03 ~ 2024.10)<br/>
+🖥️ 컴퓨터공학과 HCI 연구팀 (2021.09 ~ 2024.12)<br/>
+  • 토지 가치 예측 모델(LVPM) 개발 `Python / PyTorch / XGBoost` (2021.09 ~ 2023.11)<br/>
+  • 토지 가치 예측 서비스 "KUMap" 개발 `React / Flask` (2023.02 ~ 2024.07)<br/>
+   [\[KUMap 링크\]](https://blue.kku.ac.kr)<br/>
+  • 치매 환자와 노인의 신체 및 정신건강 증진을 위한 "몸과마음" 어플리케이션 개발 `Kotlin / Flask / LLM` (2023.07 ~ 2024.02)<br/>
+   [\[몸과마음 링크\]](https://play.google.com/store/apps/details?id=com.khci.bnm&hl=ko)<br/>
+  • 쓰레기 분리배출을 위한 "Greenery" 어플리케이션 개발 `Kotlin / Flask / LLM` (2024.04 ~ 2024.05)<br/>
+   [\[Greenery 링크\]](https://play.google.com/store/apps/details?id=com.ert.greenery&hl=ko)<br/>
+  • 가축 질병 관리를 위한 챗봇 어플리케이션 "KUVet" 개발 `Kotlin / Flask / LLM` (2024.05 ~ 2024.07)<br/>
+   [\[KUVet 링크\]](https://play.google.com/store/apps/details?id=com.hci.chatbot)<br/>
+  • CARLA 환경에서의 카메라 센서를 활용한 자율주행 모델 개발 `Carla / Python / PyTorch` (2024.03 ~ 2024.10)<br/>
 <br/>
-• 컴퓨터공학과 서버실 (2021.09 ~ 2024.12)<br/>
- └── 컴퓨터공학과 서버장 (2023.09 ~ 2024.06)<br/>
+🗄️ 컴퓨터공학과 서버실 (2021.09 ~ 2024.12)<br/>
+  • 컴퓨터공학과 서버장 (2023.09 ~ 2024.06)<br/>
 
 <br/><br/>
 
